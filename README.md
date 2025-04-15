@@ -26,9 +26,3 @@ A simple Flutter application that generates random English word pairs and allows
 - Dart SDK
 - A device/emulator to run the app
 
-### Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/mahfuzRahman189/Namer-App.git
-   cd namer-app
